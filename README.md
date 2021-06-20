@@ -1,6 +1,6 @@
 # hello-world
 Repository uno
 
-I'm new to all of this, butit seems promising. G
+I'm new to all of this, but it seems promising. 
 
-lad to be here.
+Glad to be here.
